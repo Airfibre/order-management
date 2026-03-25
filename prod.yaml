@@ -1,10 +1,10 @@
 name: Martin D'vloper
-age: 26
+age: 50
 is_student: true
 address:
-  street: "123 Main Street"
+  street: "143 Main Street"
   city: "Anytown"
-  zipcode: "12345"
+  zipcode: "232305"
 hobbies:
   - painting
   - playing_music
